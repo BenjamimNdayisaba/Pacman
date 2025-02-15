@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1715365152 source:c:\users\ben\desktop\c projects\paacman1\paacmann.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
